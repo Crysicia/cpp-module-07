@@ -1,3 +1,4 @@
 **/*.o
 **/whatever
 **/iter
+**/array
